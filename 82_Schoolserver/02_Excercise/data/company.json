@@ -1,0 +1,10 @@
+{
+  "company": [{
+    "id": 101, "name": "Bildxzug", "contact": "Janis Blöchliger", "phone": "079 999 99 99", "url": "https://bildxzug.ch", "email": "janis.bloechliger@bildxzug.ch", "profession": "Mediamtiker in Ausbildung"
+  }, {
+    "id": 102, "name": "Argentiere", "contact": "Janis Blöchliger", "phone": "078 888 88 88", "url": "https://argentiere.com", "email": "janis.bloechliger@argentiere.com", "profession": "IT Support"
+  },{
+    "id": 103, "name": "Binoge", "contact": "Janis Blöchliger", "phone": "077 777 77 77", "url": "https://biogen.com", "email": "janis.bloechliger@biogen.com", "profession": "Graphic Designer"
+  }
+  ]
+}

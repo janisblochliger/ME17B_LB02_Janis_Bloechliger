@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b45d288-cc95-4043-90f4-d6636a4d22d0" name="Default Changelist" comment="Nico Frey's Übungen" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="1lEiXFGon6AqogCCPCTygddwJ0N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/82_Schoolserver/02_Excercise" />
+      <recent name="$PROJECT_DIR$/11b_Asynchronous_JS/02_Excercises" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/11b_Asynchronous_JS/02_Excercises/_old" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.schoolserver">
+    <configuration name="puzzleserver" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="puzzleserver" />
+      </scripts>
+      <node-interpreter value="node" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="schoolserver" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="schoolserver" />
+      </scripts>
+      <node-interpreter value="node" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.puzzleserver" />
+      <item itemvalue="npm.schoolserver" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b45d288-cc95-4043-90f4-d6636a4d22d0" name="Default Changelist" comment="" />
+      <created>1607168689367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607168689367</updated>
+      <workItem from="1607168691768" duration="13229000" />
+      <workItem from="1607444156627" duration="5000" />
+      <workItem from="1607675129059" duration="526000" />
+      <workItem from="1607858648877" duration="5579000" />
+      <workItem from="1608234424649" duration="3229000" />
+      <workItem from="1608468407006" duration="3960000" />
+      <workItem from="1608483549098" duration="819000" />
+      <workItem from="1608575189340" duration="4869000" />
+      <workItem from="1608627677036" duration="3898000" />
+    </task>
+    <task id="LOCAL-00001" summary="Nico Frey's Übungen">
+      <created>1608483808333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608483808333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Nico Frey's Übungen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nico Frey's Übungen" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="306" y="197" width="1071" height="778" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608630605279">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="306" y="197" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.1025/-1920.25.1920.1055@0.25.1680.1025" timestamp="1608624696377" />
+    <state x="306" y="197" width="1071" height="778" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1608630605279" />
+    <state width="1659" height="277" key="GridCell.Tab.0.bottom" timestamp="1608631306275">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1659" height="277" key="GridCell.Tab.0.bottom/0.25.1680.1025/-1920.25.1920.1055@0.25.1680.1025" timestamp="1608626832181" />
+    <state width="1659" height="277" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1608631306275" />
+    <state width="1659" height="277" key="GridCell.Tab.0.center" timestamp="1608631306273">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1659" height="277" key="GridCell.Tab.0.center/0.25.1680.1025/-1920.25.1920.1055@0.25.1680.1025" timestamp="1608626832180" />
+    <state width="1659" height="277" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1608631306273" />
+    <state width="1659" height="277" key="GridCell.Tab.0.left" timestamp="1608631306272">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1659" height="277" key="GridCell.Tab.0.left/0.25.1680.1025/-1920.25.1920.1055@0.25.1680.1025" timestamp="1608626832180" />
+    <state width="1659" height="277" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1608631306272" />
+    <state width="1659" height="277" key="GridCell.Tab.0.right" timestamp="1608631306274">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1659" height="277" key="GridCell.Tab.0.right/0.25.1680.1025/-1920.25.1920.1055@0.25.1680.1025" timestamp="1608626832181" />
+    <state width="1659" height="277" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1608631306274" />
+    <state x="505" y="247" key="run.anything.popup" timestamp="1608624152030">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="505" y="247" key="run.anything.popup/0.25.1680.1025/-1920.25.1920.1055@0.25.1680.1025" timestamp="1608624152030" />
+  </component>
+</project>
